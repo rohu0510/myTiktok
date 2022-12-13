@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566345650830",
+    "project_id": "tiktok-mod-by-rohit",
+    "storage_bucket": "tiktok-mod-by-rohit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566345650830:android:49b49a73666891dff82fdf",
+        "android_client_info": {
+          "package_name": "com.example.latest_collage_p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566345650830-mqf0c2mpu8tg5iggmoa143674jetjse0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NyGMphPIjEGaJYTWVCxsBTor6gao9u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566345650830-mqf0c2mpu8tg5iggmoa143674jetjse0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
